@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b419e445e1ad03d6d5894e9bebe8354bea0baa2a",
+    "author": "dieghernan <dieghernan@users.noreply.github.com>",
+    "time": "2022-07-20 13:20:21",
+    "files": 2,
+    "merge": false,
+    "message": "Update docs with pkgdev\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr"
+}
