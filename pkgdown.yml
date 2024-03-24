@@ -1,0 +1,13 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  bibtex_cff: bibtex_cff.html
+  cffr: cffr.html
+  crosswalk: crosswalk.html
+  paper: paper.html
+last_built: 2024-03-24T22:21Z
+urls:
+  reference: https://docs.ropensci.org/cffr/reference
+  article: https://docs.ropensci.org/cffr/articles
+

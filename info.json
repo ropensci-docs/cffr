@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3d953d66c7d9f698b49ff5eaef40fa50878442e0",
+    "author": "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",
+    "time": "2024-03-24 21:22:52",
+    "files": 2,
+    "merge": false,
+    "message": "revdepcheck\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr"
+}
