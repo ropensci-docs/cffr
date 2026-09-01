@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "7119aa8376083cc1afb503a17e780f2e6920fe2f",
+    "author": "Diego H <diego.hernangomezherrero@gmail.com>",
+    "time": "2026-09-01T10:51:42Z",
+    "files": 30,
+    "merge": false,
+    "message": "Performance improvements\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr",
+  "time": "2026-09-01T11:56:34Z"
+}
