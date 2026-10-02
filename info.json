@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c642d8acf56068c728f9907d1c42b342f97ca8ed",
+    "author": "Diego H <diego.hernangomezherrero@gmail.com>",
+    "time": "2026-10-02T09:18:13Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update shared agents and skills\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr",
+  "time": "2026-10-02T13:03:20Z"
+}
