@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "d490c93b59068f852f0befd294f5f4ac5c850b86",
+    "author": "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",
+    "time": "2026-10-09T15:55:22Z",
+    "files": 3,
+    "merge": false,
+    "message": "Update docs with pkgdev\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr",
+  "time": "2026-10-09T16:26:54Z"
+}
