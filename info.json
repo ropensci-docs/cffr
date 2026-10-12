@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "227e5d6448ffe8ffe00dc966db5179f79b5e2532",
+    "author": "Diego H <diego.hernangomezherrero@gmail.com>",
+    "time": "2026-10-12T17:56:41Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update proofread-comments skill\n\nUse `r-package-docs-consistency` alongside proofreading for package-wide documentation structure and references.\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr",
+  "time": "2026-10-12T23:13:22Z"
+}
