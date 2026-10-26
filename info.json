@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "44df2a2210db78c43278019ce94e56bf326ac40f",
+    "author": "Diego H <diego.hernangomezherrero@gmail.com>",
+    "time": "2026-10-26T10:31:24Z",
+    "files": 1,
+    "merge": false,
+    "message": "Restore full coverage for BibTeX type mappings\n\nAdd regression coverage for all supported CFF publication type mappings and the default fallback, restoring package coverage to 100%.\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr",
+  "time": "2026-10-26T13:30:17Z"
+}
