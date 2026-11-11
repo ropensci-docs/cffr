@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "3cc48acf87b24f2efa61cd1f3bf1e96e4817568f",
+    "author": "Diego H <diego.hernangomezherrero@gmail.com>",
+    "time": "2026-11-11T06:35:59Z",
+    "files": 1,
+    "merge": false,
+    "message": "Document how to format references to R\n"
+  },
+  "repo": "https://github.com/ropensci/cffr",
+  "pkg": "cffr",
+  "time": "2026-11-11T06:51:07Z"
+}
